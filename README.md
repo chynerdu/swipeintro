@@ -20,10 +20,10 @@ Import
 
 ## Demo
 <div style="display: flex">
-<image src="https://github.com/chynerdu/swipeintro/blob/main/example/assets/demoImages/Screenshot_20240305-054819.jpg?raw=true" width=50% style="margin-right: 20px"/>
-<image src="https://github.com/chynerdu/swipeintro/blob/main/example/assets/demoImages/Screenshot_20240305-054858%20(1).jpg?raw=true" width=50% style="margin-right: 20px"/>
+<image src="https://github.com/chynerdu/swipeintro/blob/main/example/assets/demoImages/Screenshot_20240305-054819.jpg?raw=true" width=30%  height=30% style="margin-right: 20px"/>
+<image src="https://github.com/chynerdu/swipeintro/blob/main/example/assets/demoImages/Screenshot_20240305-054858%20(1).jpg?raw=true" width=30%  height=30% style="margin-right: 20px"/>
 
-<image src="https://github.com/chynerdu/swipeintro/blob/main/example/assets/demoImages/Screenshot_20240305-063752.jpg?raw=true" width=50%/>
+<image src="https://github.com/chynerdu/swipeintro/blob/main/example/assets/demoImages/Screenshot_20240305-063752.jpg?raw=true" width=30%  height=30%/>
 
 </div>
 
