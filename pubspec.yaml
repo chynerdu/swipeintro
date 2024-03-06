@@ -1,7 +1,11 @@
 name: swipeintro
 description: "A flutter package for displaying intro screens"
-version: 0.0.1
+version: 0.0.2
 repository: "https://github.com/chynerdu/swipeintro"
+
+platforms:
+  android:
+  ios:
 
 environment:
   sdk: '>=3.3.0-174.3.beta <4.0.0'
@@ -44,8 +48,8 @@ flutter:
     # then add platforms following the instruction here:
     # https://flutter.dev/docs/development/packages-and-plugins/developing-packages#plugin-platforms
     # -------------------
-      some_platform:
-        pluginClass: SwipeintroPlugin
+      # some_platform:
+      #   pluginClass: SwipeintroPlugin
     # -------------------
 
   # To add assets to your plugin package, add an assets section, like this:

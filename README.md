@@ -8,7 +8,7 @@ Add to pubspec.yaml file
 
 <div style="background-color: #f6f8fa; color: black; padding: 10px; margin-left: 10px; margin-bottom: 20px; width: 25%" >
 dependencies: <br>
-<p>intro_slider: ^4.2.1 </p>
+<p>swipeintro: ^0.0.2 </p>
 </div>
 
 
