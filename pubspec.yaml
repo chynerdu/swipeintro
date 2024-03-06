@@ -1,7 +1,7 @@
 name: swipeintro
-description: "A new Flutter plugin project."
+description: "A flutter package for displaying intro screens"
 version: 0.0.1
-homepage:
+Repository: "https://github.com/chynerdu/swipeintro"
 
 environment:
   sdk: '>=3.3.0-174.3.beta <4.0.0'
