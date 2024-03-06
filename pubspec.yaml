@@ -1,6 +1,6 @@
 name: swipeintro
 description: "A flutter package for displaying intro screens"
-version: 0.0.2
+version: 0.0.3
 repository: "https://github.com/chynerdu/swipeintro"
 
 platforms:
