@@ -1,19 +1,19 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:swipeintro/intro/sliderItem.dart';
+import 'package:swipeintro/intro/slider_item.dart';
 
 class Intro extends StatefulWidget {
-  List<String>? sliderImages;
-  List<String> header;
-  TextStyle? headerStyle;
-  TextStyle? subtitleStyle;
-  List<String>? subtitle;
-  List<Color> colors;
-  int count;
-  bool? sliderColorForHeaderColor;
-  Widget? actions;
+  final List<String>? sliderImages;
+  final List<String> header;
+  final TextStyle? headerStyle;
+  final TextStyle? subtitleStyle;
+  final List<String>? subtitle;
+  final List<Color> colors;
+  final int count;
+  final bool? sliderColorForHeaderColor;
+  final Widget? actions;
 
-  Intro(
+  const Intro(
       {this.sliderImages,
       required this.header,
       this.subtitle,

@@ -6,6 +6,7 @@ class SlideItem extends StatelessWidget {
 
   const SlideItem({super.key, required this.color, required this.slideImage});
 
+  @override
   Widget build(BuildContext context) {
     return Container(
         height: MediaQuery.of(context).size.height,
